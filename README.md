@@ -9,6 +9,6 @@
 ### This is built using HTML, CSS, JavaScript <br/>
 
 
-<img src="img/insertion sort.JPG"> <br/>
-<img src="img/selection sort.JPG"> <br/>
-<img src="img/new array.JPG"> <br/>
+<img src="image/img.JPG"> <br/>
+<img src="image/img1.JPG"> <br/>
+<img src="image/img2.JPG"> <br/>
